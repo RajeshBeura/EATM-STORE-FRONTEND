@@ -1,2 +1,1 @@
-# js-hiteshsir
-code repository for hitesh sir youtube
+EATM STORE FRONTEND PROJECT
